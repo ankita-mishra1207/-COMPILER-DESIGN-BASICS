@@ -1,0 +1,15 @@
+Source code: int main() { int x = 10; float y = x + 5; }
+
+Tokens found:
+Keyword: int
+Identifier: main
+Keyword: int
+Identifier: x
+Operator: =
+Number: 10
+Keyword: float
+Identifier: y
+Operator: =
+Identifier: x
+Operator: +
+Number: 5
